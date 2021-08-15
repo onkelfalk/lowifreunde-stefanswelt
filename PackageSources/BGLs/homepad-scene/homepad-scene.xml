@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<FSData version="9.0">
+	<!--SceneryObject name: GBZH35_Helipad_Hexa-->
+	<SceneryObject lat="47.26044359376334" lon="11.36332620028875" alt="0.00000000000000" pitch="0.000512" bank="-0.000512" heading="39.073617" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
+		<LibraryObject name="{0707D72A-E2FC-4409-9DD5-41D51715C528}" scale="0.700000"/>
+	</SceneryObject>
+</FSData>
+

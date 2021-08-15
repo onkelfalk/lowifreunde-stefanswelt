@@ -1,0 +1,34 @@
+{
+  "content": [
+    {
+      "path": "ContentInfo/lowifreunde-stefanswelt/Thumbnail.jpg",
+      "size": 106804,
+      "date": 132727972446028978
+    },
+    {
+      "path": "scenery/global/scenery/seegrube-modellib.BGL",
+      "size": 56,
+      "date": 132730850300405388
+    },
+    {
+      "path": "scenery/world/scenery/lowj-scenery.bgl",
+      "size": 797,
+      "date": 132730850299925406
+    },
+    {
+      "path": "scenery/world/scenery/lowj-shapes.bgl",
+      "size": 888,
+      "date": 132730850299995550
+    },
+    {
+      "path": "scenery/world/scenery/seegrube-polygons.bgl",
+      "size": 892,
+      "date": 132730850300055422
+    },
+    {
+      "path": "scenery/world/scenery/seegrube-scene.bgl",
+      "size": 56,
+      "date": 132730850300225404
+    }
+  ]
+}
