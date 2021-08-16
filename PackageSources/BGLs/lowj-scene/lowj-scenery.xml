@@ -1,12 +1,15 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
 	<Airport country="Austria" city="Innsbruck" name="lowifreunde Helipad" ident="LOWJ" lat="47.26151600161526" lon="11.36704284606340" alt="573.14998129103333" magvar="0.000000" airportTestRadius="1920.00025962663995" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+		<AirportGroup displayName="Group 1" groupID="1"/>
+		<TaxiwayParking displayName="Helipad" groupIndex="2" index="0" type="FUEL" lat="47.26152519692037" lon="11.36700329472773" heading="80.000000" radius="5.000000" name="PARKING" number="1" suffix="NONE" numberMarking="FALSE" numberBiasX="0.000000" numberBiasZ="0.000000" numberHeading="0.000000"/>
 		<TaxiName index="0" name=""/>
-		<Runway lat="47.26153357722129" lon="11.36704154206728" alt="573.15065339675289" heading="74.53823089599609" length="21.81753730773926" width="17.90355110168457" patternAltitude="304.79998779296875" surface="{1F94370E-E0C7-4953-B3A2-DE44313DE070}" transparent="FALSE" number="WEST" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway groupIndex="1" lat="47.26153851455957" lon="11.36704108814071" alt="573.15069270320237" heading="74.53823089599609" length="21.81753730773926" width="17.90355110168457" patternAltitude="304.79998779296875" falloff="20.000000" surface="{1F94370E-E0C7-4953-B3A2-DE44313DE070}" transparent="FALSE" number="WEST" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
 			<Lights center="NONE" edge="NONE"/>
+			<RunwayStart end="PRIMARY" lat="47.26154562269527" lon="11.36711742905856" alt="573.15083945356309" heading="260.00000000000000"/>
 		</Runway>
-		<Helipad groupIndex="1" type="CIRCLE" lat="47.26153053707790" lon="11.36704140080927" alt="574.09971768222749" heading="73.966461" length="10.150001" width="10.150001" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
+		<Helipad groupIndex="3" type="CIRCLE" lat="47.26152647271806" lon="11.36699792008856" alt="574.09963788278401" heading="73.966461" length="10.150001" width="10.150001" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
