@@ -1,19 +1,12 @@
 <?xml version="1.0"?>
 <FSData version="9.0">
-	<!--SceneryObject name: GBZH35_Helipad_Circle_Pad-->
-	<SceneryObject lat="47.26047142042903" lon="11.36336584919154" alt="0.00000000000000" pitch="0.000000" bank="0.000000" heading="-179.999995" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{6BC2BFBE-0AD4-4649-D6A2-9631E8C22DED}" scale="0.474000"/>
-	</SceneryObject>
-	<!--SceneryObject name: GBZH35_Helipad_Square_Pad-->
-	<SceneryObject lat="47.26066286517501" lon="11.36416652906995" alt="0.00000000000000" pitch="0.000949" bank="-0.000949" heading="-111.672042" imageComplexity="VERY_SPARSE" altitudeIsAgl="TRUE" snapToGround="TRUE" snapToNormal="FALSE">
-		<LibraryObject name="{84669512-3ADF-4446-9298-E12B35BCE972}" scale="0.471162"/>
-	</SceneryObject>
-	<Airport name="LOWJ" ident="LOWJ" lat="47.26066563358478" lon="11.36416268002943" alt="574.48270331881940" magvar="0.000000" airportTestRadius="2000.00000000000000" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
+	<Airport country="Austria" city="Innsbruck" name="lowifreunde Helipad" ident="LOWJ" lat="47.26151600161526" lon="11.36704284606340" alt="573.14998129103333" magvar="0.000000" airportTestRadius="1920.00025962663995" applyFlatten="FALSE" isOnTIN="FALSE" starAirport="TRUE">
 		<TaxiName index="0" name=""/>
-		<Runway lat="47.26065278697965" lon="11.36415736188335" alt="574.48238474223763" heading="-112.03041076660156" length="18.73369789123535" width="15.56474685668945" patternAltitude="304.79998779296875" surface="{00000000-0000-0000-0000-000000000000}" transparent="TRUE" number="0" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
+		<Runway lat="47.26153357722129" lon="11.36704154206728" alt="573.15065339675289" heading="74.53823089599609" length="21.81753730773926" width="17.90355110168457" patternAltitude="304.79998779296875" surface="{1F94370E-E0C7-4953-B3A2-DE44313DE070}" transparent="FALSE" number="WEST" designator="NONE" primaryLanding="TRUE" primaryTakeoff="TRUE" primaryPattern="LEFT" secondaryLanding="TRUE" secondaryTakeoff="TRUE" secondaryPattern="LEFT" primaryMarkingBias="0.00000000000000" secondaryMarkingBias="0.00000000000000" groundMerging="TRUE" excludeVegetationAround="TRUE">
 			<Markings edges="FALSE" threshold="FALSE" alternateThreshold="FALSE" fixedDistance="FALSE" alternateFixedDistance="FALSE" touchdown="FALSE" alternateTouchdown="FALSE" dashes="FALSE" ident="FALSE" leadingZeroIdent="FALSE" precision="FALSE" alternatePrecision="FALSE" edgePavement="FALSE" singleEnd="FALSE" primaryClosed="FALSE" secondaryClosed="FALSE" primaryStol="FALSE" secondaryStol="FALSE" noThresholdEndArrows="FALSE"/>
-			<Lights center="LOW" edge="MEDIUM"/>
+			<Lights center="NONE" edge="NONE"/>
 		</Runway>
+		<Helipad groupIndex="1" type="CIRCLE" lat="47.26153053707790" lon="11.36704140080927" alt="574.09971768222749" heading="73.966461" length="10.150001" width="10.150001" surface="CEMENT" closed="FALSE" transparent="FALSE"/>
 		<Aprons/>
 		<PaintedElements/>
 		<ApronEdgeLights/>
